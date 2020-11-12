@@ -8,33 +8,18 @@ Se você não conseguir terminar o desafio por completo, não se preocupe, iremo
 # O Projeto
 **Desafio** : Criar uma API em NodeJS utilizando MongoDB.
 **Funcionalidades**: 
-1) Escola
-- Cadastrar Escola
-- Alterar Escola
-- Obter Escola
-- Listar Escola
-- Deletar Escola
+1) Escola: Cadastrar, Alterar, Obter, Listar, Deletar
 
-2) Turma
-- Cadastrar  Turma
-- Alterar Turma
-- Obter Turma
-- Listar Turma
-- Deletar Turma
+2) Turma: Cadastrar, Alterar, Obter, Listar, Deletar
 
-3) Alunos
-- Cadastrar Aluno
-- Alterar Aluno
-- Obter Aluno
-- Listar Aluno
-- Deletar Aluno
+3) Alunos: Cadastrar, Alterar, Obter, Listar, Deletar
 
 **OBS**: Uma escola tem N turmas, e cada turma tem N alunos.
 
 # Dicas
 - Preocupe-se com a arquitetura da API;
 - Construa um código limpo e de fácil manutenção;
-- É permitido o uso de qualquer framework;
+- É permitido o uso de qualquer framework (express, por exemplo);
 - Use e abuse de testes unitários;
 - A documentação da API é algo muito importante.
 
